@@ -30,6 +30,8 @@
     * A deposit function is created will transfer and calculate base on percentage, keep a running total and transfer the balance to the highest percentage.
     * A fallback created function which make sure that deposit is excuted correctly if eth is send directly to the contract.
 
+    
+
 
 - The below are the parameter to deploy transaction.
 ![alttext](Image/Tieredprofit1.PNG)
@@ -56,7 +58,7 @@
     * Requier an error message when requirement not met.
     * Require to add another 365 days to unlock time .
 
-    
+
 * A deactivate function created which enable either the employee or HR can deactivate at their will.
 
 * A fallback created function which make sure that deposit is reverted if sent to the contract.
