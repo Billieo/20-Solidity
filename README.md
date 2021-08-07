@@ -30,20 +30,24 @@
     * A deposit function is created will transfer and calculate base on percentage, keep a running total and transfer the balance to the highest percentage.
     * A fallback created function which make sure that deposit is excuted correctly if eth is send directly to the contract.
 
-    
+
 
 
 - The below are the parameter to deploy transaction.
 ![alttext](Image/Tieredprofit1.PNG)
 
+
 - The below screen print shows the confirmation window where you will confirm the transaction.
 ![alttext](Image/Tieredprofit2.PNG)
+
 
 - The below screen print shows the transaction details.
 ![alttext](Image/Tieredprofit3.PNG)
 
+
 - The below screen print shows the deposit transaction details.
 ![alttext](Image/Tieredprofit4.PNG)
+
 
 
 
@@ -66,8 +70,11 @@
 - The below are the parameter to deploy transaction
 ![alttext](Image/DeferredEquityPlan1.PNG)
 
+
 - The below screen print shows the confirmation window where you will confirm the transaction.
 ![alttext](Image/DeferredEquityPlan2.PNG)
 
+
 - The below screen print shows the transaction details.
 ![alttext](Image/DeferredEquityPlan3.PNG)
+
