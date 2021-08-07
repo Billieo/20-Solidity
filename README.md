@@ -7,7 +7,7 @@
     * A fallback function created which make sure that deposit is excuted correctly if eth is send directly to the contract.
 
 - The below are the parameter to deploy transaction
-    
+
 ![alttext](Image/Deploy.png)
 
 - The below screen print shows the transaction details.
@@ -16,7 +16,7 @@
 
 - The below are the parameter to deploy deposit transaction.
 
-![alttext](Image/Deposit.png)
+![alttext](Image/deposit.png)
 
 - The below screen print shows the confirmation window when you will confirm the transaction.
 
