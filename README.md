@@ -6,19 +6,24 @@
     * A deposit function is created so that the owner make deposit into the contract.
     * A fallback function created which make sure that deposit is excuted correctly if eth is send directly to the contract.
 
-- The below are the parameter to deploy transaction    
+- The below are the parameter to deploy transaction
+    
 ![alttext](Image/Deploy.png)
 
-- The below screen print shows the transaction details.  
+- The below screen print shows the transaction details.
+
 ![alttext](Image/Transdetail.png)
 
 - The below are the parameter to deploy deposit transaction.
+
 ![alttext](Image/Deposit.png)
 
 - The below screen print shows the confirmation window when you will confirm the transaction.
+
 ![alttext](Image/depositconfir.png)
 
 - The below screen print shows the transaction details for deposit.
+
 ![alttext](Image/deposittrans.png)
 
 
@@ -34,18 +39,22 @@
 
 
 - The below are the parameter to deploy transaction.
+
 ![alttext](Image/Tieredprofit1.PNG)
 
 
 - The below screen print shows the confirmation window where you will confirm the transaction.
+
 ![alttext](Image/Tieredprofit2.PNG)
 
 
 - The below screen print shows the transaction details.
+
 ![alttext](Image/Tieredprofit3.PNG)
 
 
-- The below screen print shows the deposit transaction details.
+- The below screen print shows the deposit transaction details
+
 ![alttext](Image/Tieredprofit4.PNG)
 
 
@@ -68,13 +77,16 @@
 * A fallback created function which make sure that deposit is reverted if sent to the contract.
 
 - The below are the parameter to deploy transaction
+
 ![alttext](Image/DeferredEquityPlan1.PNG)
 
 
 - The below screen print shows the confirmation window where you will confirm the transaction.
+
 ![alttext](Image/DeferredEquityPlan2.PNG)
 
 
 - The below screen print shows the transaction details.
+
 ![alttext](Image/DeferredEquityPlan3.PNG)
 
